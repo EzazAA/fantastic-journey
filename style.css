@@ -60,6 +60,6 @@ main{
 }
 @media(min-width: 600px;){
   body{
-    background-image: url(tab.jpg);
+    background-image: url(pc.jpg);
   }
 }
